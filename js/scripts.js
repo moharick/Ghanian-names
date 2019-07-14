@@ -17,3 +17,13 @@ function calculateDay() {
     return (Math.floor(dayOfBirth));
     Console.log(dayOfBirth);
 }
+
+function check() {
+    var genderval = document.getElementsByName("optradio");
+    if (genderval[0].checked == true) {
+        gender = "male";
+    } else if (genderval[1].checked == true) {
+        gender = "female";
+    } else {
+        // console.log("radios are check");
+    }
