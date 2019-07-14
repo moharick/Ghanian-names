@@ -18,3 +18,23 @@ body {
     max-width: 33.333333%;
     margin-top: 8%;
 }
+
+.row h1 {
+    border: 2px solid whitesmoke;
+    color: black;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    height: 60px;
+    font-size: 47px;
+    padding-left: 50px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+p {
+    color: black;
+    border-right: 1px solid grey;
+    padding: 10px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 20px;
+}
