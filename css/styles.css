@@ -38,3 +38,16 @@ p {
     font-family: 'Kaushan Script', cursive;
     font-size: 20px;
 }
+
+.footer {
+    margin-bottom: 0%;
+    margin-left: 350px;
+    color: black;
+    font-family: 'Kaushan Script', cursive;
+}
+
+h3,
+.form-group {
+    color: black;
+    font-family: 'Kaushan Script', cursive;
+}
